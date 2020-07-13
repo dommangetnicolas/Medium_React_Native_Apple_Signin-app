@@ -1,0 +1,12 @@
+{
+  "name": "RNSignin",
+  "displayName": "RNSignin",
+  "expo": {
+    "name": "RNSignin",
+    "slug": "RNSignin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
